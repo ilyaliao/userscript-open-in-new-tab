@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open in New Tab
 // @namespace    https://greasyfork.org/en/scripts/514528-open-in-new-tab
-// @version      0.0.0
+// @version      0.0.1
 // @description  Always open a new tab
 // @author       JackCodeTW
 // @license      MIT
