@@ -4,6 +4,8 @@
 
 I always like to open in a new tab.
 
+[Install on Greasyfork](https://greasyfork.org/en/scripts/514528-open-in-new-tab)
+
 ## 📄 License
 
 [MIT](./LICENSE) License © 2024-PRESENT [Jack Liao](https://github.com/jackcodetw)

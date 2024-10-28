@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Open in New Tab
-// @namespace    http://tampermonkey.net/
+// @namespace    https://greasyfork.org/en/scripts/514528-open-in-new-tab
 // @version      0.0.0
 // @description  Always open a new tab
 // @author       JackCodeTW
