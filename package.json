@@ -1,0 +1,40 @@
+{
+  "name": "userscript-open-in-new-tab",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "packageManager": "pnpm@9.10.0",
+  "author": "jackcodetw",
+  "license": "MIT",
+  "homepage": "https://github.com/jackcodetw/userscript-open-in-new-tab#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackcodetw/userscript-open-in-new-tab.git"
+  },
+  "bugs": "https://github.com/jackcodetw/userscript-open-in-new-tab/issues",
+  "scripts": {
+    "lint": "eslint .",
+    "release": "bumpp -x \"node bump.js\" --all"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.6.2",
+    "@antfu/ni": "^0.23.0",
+    "@antfu/utils": "^0.7.10",
+    "@types/node": "^22.5.5",
+    "bumpp": "^9.5.2",
+    "eslint": "^9.10.0",
+    "esno": "^4.7.0",
+    "lint-staged": "^15.2.10",
+    "pnpm": "^9.10.0",
+    "rimraf": "^6.0.1",
+    "simple-git-hooks": "^2.11.1",
+    "typescript": "^5.6.2",
+    "unbuild": "^2.0.0"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
+  }
+}
