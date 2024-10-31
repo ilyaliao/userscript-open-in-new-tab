@@ -4,14 +4,14 @@
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.10.0",
-  "author": "jackcodetw",
+  "author": "ilyaliao",
   "license": "MIT",
-  "homepage": "https://github.com/jackcodetw/userscript-open-in-new-tab#readme",
+  "homepage": "https://github.com/ilyaliao/userscript-open-in-new-tab#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackcodetw/userscript-open-in-new-tab.git"
+    "url": "git+https://github.com/ilyaliao/userscript-open-in-new-tab.git"
   },
-  "bugs": "https://github.com/jackcodetw/userscript-open-in-new-tab/issues",
+  "bugs": "https://github.com/ilyaliao/userscript-open-in-new-tab/issues",
   "scripts": {
     "lint": "eslint .",
     "release": "bumpp -x \"node bump.js\" --all"

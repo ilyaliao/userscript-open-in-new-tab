@@ -8,9 +8,9 @@ I always like to open in a new tab.
 
 ## 📄 License
 
-[MIT](./LICENSE) License © 2024-PRESENT [Jack Liao](https://github.com/jackcodetw)
+[MIT](./LICENSE) License © 2024-PRESENT [Ilya Liao](https://github.com/ilyaliao)
 
 <!-- Badges -->
 
-[license-src]: https://img.shields.io/github/license/jackcodetw/vue-pdf-printer.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/jackcodetw/vue-pdf-printer/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/ilyaliao/vue-pdf-printer.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/ilyaliao/vue-pdf-printer/blob/main/LICENSE
